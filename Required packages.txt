@@ -1,0 +1,11 @@
+Required packages
+
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Relational
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+MediatR
+MediatR.Extensions.Microsoft.DependencyInjection
+Swashbuckle.AspNetCore
+Swashbuckle.AspNetCore.Swagger
+
