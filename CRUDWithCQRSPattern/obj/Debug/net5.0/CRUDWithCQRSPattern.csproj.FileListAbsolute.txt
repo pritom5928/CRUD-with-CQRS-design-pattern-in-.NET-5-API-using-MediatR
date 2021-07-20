@@ -61,3 +61,4 @@ D:\ASP PROJECTS\CRUDWithCQRSPattern\CRUDWithCQRSPattern\obj\Debug\net5.0\CRUDWit
 D:\ASP PROJECTS\CRUDWithCQRSPattern\CRUDWithCQRSPattern\bin\Debug\net5.0\Humanizer.dll
 D:\ASP PROJECTS\CRUDWithCQRSPattern\CRUDWithCQRSPattern\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\ASP PROJECTS\CRUDWithCQRSPattern\CRUDWithCQRSPattern\obj\Debug\net5.0\CRUDWithCQRSPattern.csprojAssemblyReference.cache
+D:\ASP PROJECTS\CRUDWithCQRSPattern\CRUDWithCQRSPattern\bin\Debug\net5.0\CQRS.WebApi.xml
